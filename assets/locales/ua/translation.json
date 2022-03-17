@@ -1,0 +1,68 @@
+{
+    "app_title": "/TSlash | Портфоліо",
+
+    "language": "Українська",
+
+    "scroll_arrow": "Гортайте Вниз",
+
+    "swipe_arrow": "Гортайте",
+
+    "menu": "Меню",
+    "home": "Головна",
+
+    "cards": "Карточок",
+
+    "navbar_branding": "Брендинг",
+    "navbar_contacts": "Контакти",
+
+    "backHeader": "Назад",
+
+    "indicator_welcome": "Привіт",
+    "indicator_about_me": "Про мене",
+    "indicator_my_skills": "Мої вміння",
+    "indicator_my_works": "Мої роботи",
+    "indicator_contacts": "Контакти",
+
+    "welcome_description": "Ми робимо Ваші бажання реальними",
+    "welcome_button": "Поговоримо?",
+
+    "about_me_predescription": "Про мене",
+    "about_me_greetings": "Привіт! Я TSlash.",
+    "about_me_description": "Або ж просто звіть мене Тарас, я Front-End/BackEnd розробник і цифровий UI/UX дизайнер. Давайте працювати разом.",
+    "about_me_button": "Контакти",
+
+    "my_skills_predescription": "Мої вміння",
+    "my_skills_header": "Що я можу?",
+    "my_skills_hard_card_description": "Це навички, які работодавець може перевірити, наприклад, знання програмування або іноземної мови.",
+    "my_skills_soft_card_description": "Вони зазвичай представляють собою навички спілкування, які дозволяють добре працювати з людьми.",
+    "my_skills_card_type": "Тип",
+    "my_skills_card_button": "Глянути",
+
+    "my_works_counter_description_fl": "Робіт зроблено",
+    "my_works_counter_description_sl": "Тут знаходяться всі мої роботи",
+    "my_works_type": "Тип",
+
+    "contacts_predescription": "Залишаємось на зв'язку",
+    "contacts_header": "Зв'яжіться зі мною",
+    "contacts_description": "Нехай це буде початком чогось нового, унікального, видатного і єдиного в своєму роді. Ми реалізуємо будь-яку ідею у вашій голові в реальність. Давайте познайомимось!",
+    "contacts_socials_header": "Соц. мережі",
+    "contacts_messangers_header": "Месенджери",
+    "contacts_emails_header": "Пошта",
+
+    "branding_first_header": "Брендинг",
+    "branding_first_sectionName": "Типографіка",
+    "branding_first_primaryFont": "Основний",
+    "branding_first_secondaryFont": "Вторинний",
+    "branding_first_weight": "Товщина",
+    "branding_first_fontFProperties": "Звичайний, Середній, Жирний",
+    "branding_first_fontSProperties": "Тонкий, Жирний",
+
+    "branding_second_header": "Кольори",
+    "branding_second_mainPalette": "Основна палітра",
+    "branding_second_gradientPalette": "Градієнтна палітра",
+
+    "branding_third_header": "Логотип та шаблон",
+    "branding_third_Fsection": "Вихідники логотипу",
+    "branding_third_Ssection": "Вихідники шаблону",
+    "branding_third_Tsection": "Вихідники Веб-Додатку"
+}

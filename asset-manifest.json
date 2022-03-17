@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0568770e.css",
+    "main.js": "/static/js/main.bb7a93e2.js",
+    "static/media/Ambient.mp3": "/static/media/Ambient.b6c73f2b842c13a1901e.mp3",
+    "static/media/picked.wav": "/static/media/picked.62dd37f80d0b13f6dd36.wav",
+    "static/media/bottom.png": "/static/media/bottom.c2d27ac402a9932882b1.png",
+    "static/media/clickButton.wav": "/static/media/clickButton.650551614c9face5fab0.wav",
+    "static/media/left.png": "/static/media/left.50b283407639a7e5ec4f.png",
+    "static/media/click.wav": "/static/media/click.b10ca9d29c7825c68a11.wav",
+    "static/media/hover.wav": "/static/media/hover.ed64763cec84abaabb70.wav",
+    "static/media/right.png": "/static/media/right.5126a30f3d3a0f1aeffb.png",
+    "static/media/linkHover.wav": "/static/media/linkHover.bc2f94f4006c71f0a23a.wav",
+    "static/media/linkClick.wav": "/static/media/linkClick.740a2a5f0e1d19b7dc02.wav",
+    "static/media/menuIn.mp3": "/static/media/menuIn.be2e2ebfe466120e8316.mp3",
+    "static/media/menuOut.mp3": "/static/media/menuOut.02b8cda02c484ba1fb53.mp3",
+    "index.html": "/index.html",
+    "static/media/Background.svg": "/static/media/Background.63548eeaee233c349d98.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.0568770e.css.map": "/static/css/main.0568770e.css.map",
+    "main.bb7a93e2.js.map": "/static/js/main.bb7a93e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0568770e.css",
+    "static/js/main.bb7a93e2.js"
+  ]
+}

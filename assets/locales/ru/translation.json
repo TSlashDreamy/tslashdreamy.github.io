@@ -1,0 +1,68 @@
+{
+    "app_title": "/TSlash | Портфолио",
+
+    "language": "Русский",
+
+    "scroll_arrow": "Листайте Вниз",
+
+    "swipe_arrow": "Листайте",
+
+    "menu": "Меню",
+    "home": "Главная",
+
+    "cards": "Карточек",
+
+    "navbar_branding": "Брендинг",
+    "navbar_contacts": "Контакты",
+
+    "backHeader": "Назад",
+
+    "indicator_welcome": "Привет",
+    "indicator_about_me": "Обо мне",
+    "indicator_my_skills": "Мои умения",
+    "indicator_my_works": "Мои работы",
+    "indicator_contacts": "Контакты",
+
+    "welcome_description": "Мы делаем Ваши желания реальными",
+    "welcome_button": "Поболтаем?",
+
+    "about_me_predescription": "Обо мне",
+    "about_me_greetings": "Привет! Я TSlash.",
+    "about_me_description": "Или просто зовите меня Тарас, я Front-End/BackEnd разработчик и цифровой UI/UX дизайнер. Давайте работать вместе.",
+    "about_me_button": "Контакты",
+
+    "my_skills_predescription": "Мои умения",
+    "my_skills_header": "Что я могу?",
+    "my_skills_hard_card_description": "Это навыки, которые работодатель может проверить, например, знание программирования или иностранного языка.",
+    "my_skills_soft_card_description": "Они обычно представляют собой навыки межличностного общения, которые позволяют людям хорошо работать с другими.",
+    "my_skills_card_type": "Тип",
+    "my_skills_card_button": "Взглянуть",
+
+    "my_works_counter_description_fl": "Работ сделано",
+    "my_works_counter_description_sl": "Здесь находятся все мои работы",
+    "my_works_type": "Тип",
+
+    "contacts_predescription": "Остаёмся на связи",
+    "contacts_header": "Свяжитесь со мной",
+    "contacts_description": "Пусть это будет началом чего-то нового, уникального, выдающегося и единственного в своем роде. Мы воплотим любую идею в вашей голове в реальность. Давайте узнаем друг друга!",
+    "contacts_socials_header": "Соц. сети",
+    "contacts_messangers_header": "Мессенджеры",
+    "contacts_emails_header": "Почта",
+
+    "branding_first_header": "Брендинг",
+    "branding_first_sectionName": "Типография",
+    "branding_first_primaryFont": "Основной",
+    "branding_first_secondaryFont": "Вторичный",
+    "branding_first_weight": "Толщина",
+    "branding_first_fontFProperties": "Обычный, Средний, Жирный",
+    "branding_first_fontSProperties": "Тонкий, Жирный",
+
+    "branding_second_header": "Цвета",
+    "branding_second_mainPalette": "Основная палитра",
+    "branding_second_gradientPalette": "Градиентная палитра",
+
+    "branding_third_header": "Логотип и шаблон",
+    "branding_third_Fsection": "Исходники логотипа",
+    "branding_third_Ssection": "Исходники шаблона",
+    "branding_third_Tsection": "Исходники Веб-Приложения"
+}
