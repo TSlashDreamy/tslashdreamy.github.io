@@ -1,6 +1,40 @@
 {
     "Loading": "/TSlash | Портфоліо",
 
+    "warning_header": "О, ні...",
+    "warning_description": "На жаль, додаток не підтримує Ваше розширення екрану, воно може викликати візуальні баги всередині додатку.",
+    "warning_button": "Все одно продовжити",
+
+    "modal_svgError": "Будь-ласка, використовуйте лише .svg файли!",
+    "modal_nameError": "Ви не заповнили поле 'Назва'!",
+    "modal_statusError": "Ви не обрали стан",
+    "modal_urlError": "Ви не заповнили поле 'URL'!",
+    "modal_frameworksError": "Ви не заповнили поле 'Frameworks'!",
+    "modal_logoError": "Ви не обрали логотип!",
+    "modal_connectionError": "Відсутнє з'єднання з інтернетом",
+    "modal_header": "Додайте нову роботу",
+    "modal_namePlaceholder": "Назва",
+    "modal_statusPlaceholder": "Стан",
+    "modal_urlPlaceholder": "URL",
+    "modal_frameworkPlaceholder": "Фреймворки",
+    "modal_logoText": "Логотип",
+    "modal_pickedFile": "Обраний файл: ",
+    "modal_buttonContent": "Додати",
+    "modal_active": "Активний",
+    "modal_done": "Завершений",
+    "modal_inDevelopment": "У Розробці",
+
+    "confirmation_header": "Ви впевнені?",
+    "confirmation_description": "Після видалення роботи, Ви більше не зможете повернути її назад. Видалити роботу?",
+    "confirmation_cancel": "Відмінити",
+    "confirmation_delete": "Видалити",
+
+    "update_header": "Редагування роботи",
+    "update_button": "Оновити",
+
+    "firebase_creatingTimestamp": "Запам'ятовую день...",
+    "firebase_loading:": "Будь-ласка, почекайте...",
+
     "language": "Українська",
 
     "scroll_arrow": "Гортайте Вниз",
@@ -16,6 +50,10 @@
     "navbar_contacts": "Контакти",
 
     "backHeader": "Назад",
+
+    "owner_login": "Увійти як власник",
+    "owner_confirmed": "Вхід підтверджено",
+    "owner_email_sended": "Ми відправили посилання для входу на електронну пошту власника. Тепер Ви можете закрити цю сторінку.",
 
     "indicator_welcome": "Привіт",
     "indicator_about_me": "Про мене",
@@ -49,6 +87,8 @@
     "contacts_messangers_header": "Месенджери",
     "contacts_emails_header": "Пошта",
 
+    "egg": "",
+
     "branding_first_header": "Брендинг",
     "branding_first_sectionName": "Типографіка",
     "branding_first_primaryFont": "Основний",
@@ -64,5 +104,25 @@
     "branding_third_header": "Логотип та шаблон",
     "branding_third_Fsection": "Вихідники логотипу",
     "branding_third_Ssection": "Вихідники шаблону",
-    "branding_third_Tsection": "Вихідники Веб-Додатку"
+    "branding_third_Tsection": "Вихідники Веб-Додатку",
+
+    "modal_addYour": "Додайте Ваш",
+    "cards_add": "Додати вміння +",
+    "cards_learned": "Вивчили щось нове?",
+    "hardskills_markup": "Мова Гіпертекстової Розмітки",
+    "hardskills_styling": "Мова Опису Зовнішнього Вигляду",
+    "hardskills_programming": "Мова Програмування",
+    "hardskills_progPlatform": "JS Оточення",
+    "hardskills_jsLib": "JS Бібліотека",
+    "hardskills_framework": "Фреймворк",
+    "hardskills_cloud": "Хмарне сховище",
+    "hardskills_verControl": "Система Контролю Версій",
+    "hardskills_IDE": "Серидовище розробки",
+    "hardskills_desUtilities": "Утиліти Дизайну",
+
+    "softskills_communication": "Комунікації",
+    "softskill_managment": "Менеджмент",
+
+    "404_desc": "От халепа... Ми не змогли знайти цю сторінку",
+    "404_button": "На головну"
 }

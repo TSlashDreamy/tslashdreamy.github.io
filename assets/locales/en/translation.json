@@ -1,6 +1,40 @@
 {
     "Loading": "/TSlash | Portfolio",
 
+    "warning_header": "Oh noes...",
+    "warning_description": "Unfortunately, the app does not support your screen resolution, which can cause to visual bugs inside the app.",
+    "warning_button": "Continue anyway",
+    
+    "modal_svgError": "Please, use .svg files only!",
+    "modal_nameError": "Name field required",
+    "modal_statusError": "You haven't selected a status",
+    "modal_urlError": "URL field required",
+    "modal_frameworksError": "Frameworks field required",
+    "modal_logoError": "Logo is required",
+    "modal_connectionError": "No internet connection",
+    "modal_header": "Add new work",
+    "modal_namePlaceholder": "Name",
+    "modal_statusPlaceholder": "Status",
+    "modal_urlPlaceholder": "URL",
+    "modal_frameworkPlaceholder": "Frameworks",
+    "modal_logoText": "Logo",
+    "modal_pickedFile": "File picked: ",
+    "modal_buttonContent": "Upload",
+    "modal_active": "Active",
+    "modal_done": "Done",
+    "modal_inDevelopment": "In Development",
+
+    "confirmation_header": "Are you sure?",
+    "confirmation_description": "After deleting work, you can't bring it back anymore. Delete work?",
+    "confirmation_cancel": "Cancel",
+    "confirmation_delete": "Delete",
+
+    "update_header": "Editing work",
+    "update_button": "Update",
+
+    "firebase_creatingTimestamp": "Creating timestamp...",
+    "firebase_loading:": "Please wait...",
+
     "language": "English",
 
     "scroll_arrow": "Scroll Down",
@@ -16,6 +50,10 @@
     "navbar_contacts": "Contacts",
 
     "backHeader": "Go Back",
+
+    "owner_login": "Log in as owner",
+    "owner_confirmed": "Log in confirmed",
+    "owner_email_sended": "We sended log in link on owner email. Now you can close this page",
 
     "indicator_welcome": "Welcome",
     "indicator_about_me": "About me",
@@ -49,6 +87,8 @@
     "contacts_messangers_header": "Messangers",
     "contacts_emails_header": "Email",
 
+    "egg": "",
+
     "branding_first_header": "Branding",
     "branding_first_sectionName": "Typography",
     "branding_first_primaryFont": "Primary",
@@ -64,5 +104,25 @@
     "branding_third_header": "Logo & Template",
     "branding_third_Fsection": "Logo Sources",
     "branding_third_Ssection": "Template Sources",
-    "branding_third_Tsection": "WebApp Sources"
+    "branding_third_Tsection": "WebApp Sources",
+
+    "modal_addYour": "Add your",
+    "cards_add": "Add new skill +",
+    "cards_learned": "Learned something new?",
+    "hardskills_markup": "Markup Language",
+    "hardskills_styling": "Styling Language",
+    "hardskills_programming": "Programming Language",
+    "hardskills_progPlatform": "JS Runtime",
+    "hardskills_jsLib": "JS Library",
+    "hardskills_framework": "Framework",
+    "hardskills_cloud": "Cloud Base",
+    "hardskills_verControl": "Version Control System",
+    "hardskills_IDE": "IDE",
+    "hardskills_desUtilities": "Design Utilities",
+
+    "softskills_communication": "Communication",
+    "softskill_managment": "Managment",
+
+    "404_desc": "Whoops... We can't find that page",
+    "404_button": "Main page"
 }
