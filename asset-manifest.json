@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.555279a5.css",
-    "main.js": "/static/js/main.c6b1e7b2.js",
+    "main.css": "/static/css/main.d7756180.css",
+    "main.js": "/static/js/main.d1670c8f.js",
     "static/media/VikaAmbient.mp3": "/static/media/VikaAmbient.b6c73f2b842c13a1901e.mp3",
     "static/media/bottom.png": "/static/media/bottom.c2d27ac402a9932882b1.png",
     "static/media/left.png": "/static/media/left.50b283407639a7e5ec4f.png",
     "static/media/right.png": "/static/media/right.5126a30f3d3a0f1aeffb.png",
-    "static/media/success.mp3": "/static/media/success.dc74276b3f35d12fb390.mp3",
-    "static/media/picked.mp3": "/static/media/picked.d632983a3e59e9adaef5.mp3",
-    "static/media/click.mp3": "/static/media/click.440976d983a181841f01.mp3",
-    "static/media/linkHover.mp3": "/static/media/linkHover.5763365c586b3e44a6cb.mp3",
-    "static/media/error.mp3": "/static/media/error.41c57af23d0ca531345e.mp3",
+    "static/media/success.mp3": "/static/media/success.5131949bea5cc214f92e.mp3",
+    "static/media/clickButton.mp3": "/static/media/clickButton.af6b7df59252704a61f4.mp3",
     "static/media/menuIn.mp3": "/static/media/menuIn.ea6c0448800f410a8a7c.mp3",
-    "static/media/hover.mp3": "/static/media/hover.5247ede94be51aff235b.mp3",
+    "static/media/click.mp3": "/static/media/click.ff5b363b9c7627fb0aeb.mp3",
+    "static/media/error.mp3": "/static/media/error.66b09c44bd89c7bfbcd2.mp3",
+    "static/media/linkHover.mp3": "/static/media/linkHover.6005ff12bb69f61266dd.mp3",
+    "static/media/picked.mp3": "/static/media/picked.147943ed4a92b639dd18.mp3",
     "static/media/menuOut.mp3": "/static/media/menuOut.0fbeaf4fc52df257dd40.mp3",
-    "static/media/linkClick.mp3": "/static/media/linkClick.c7c22b82e5a50de5521b.mp3",
-    "static/media/clickButton.mp3": "/static/media/clickButton.7770011a559e6aafa293.mp3",
+    "static/media/hover.mp3": "/static/media/hover.47ec2e1c4edd75e50fe4.mp3",
+    "static/media/linkClick.mp3": "/static/media/linkClick.ab1fd0352ece07cd3fbe.mp3",
     "index.html": "/index.html",
     "static/media/Background.svg": "/static/media/Background.63548eeaee233c349d98.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.555279a5.css.map": "/static/css/main.555279a5.css.map",
-    "main.c6b1e7b2.js.map": "/static/js/main.c6b1e7b2.js.map"
+    "main.d7756180.css.map": "/static/css/main.d7756180.css.map",
+    "main.d1670c8f.js.map": "/static/js/main.d1670c8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.555279a5.css",
-    "static/js/main.c6b1e7b2.js"
+    "static/css/main.d7756180.css",
+    "static/js/main.d1670c8f.js"
   ]
 }
